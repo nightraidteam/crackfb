@@ -1311,12 +1311,12 @@ class bapittl:
 
 ### RESULT ###
 
-def results(Reno sayank sagiri,crot):
-        if len(nightraidteam) !=0:
-                print(("[OK] : "+str(len(nightraidteam))))
-        if len(crot) !=0:
+def results(Renocintasagiri,Krahkrah):
+        if len(Renocintasagiri) !=0:
+                print(("[OK] : "+str(len(renocintasagiri))))
+        if len(Krahkrah) !=0:
                 print(("[CP] : "+str(len(Krahkrah))))
-        if len(nightraidteam) ==0 and len(Krahkrah) ==0:
+        if len(renocintasagiri) ==0 and len(Krahkrah) ==0:
                 print("\n")
                 print((k+"["+p+"!"+k+"]"+p+" No Result Found"))
 
